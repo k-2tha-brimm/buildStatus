@@ -5,7 +5,7 @@
   "author": "steve",
   "main": "functions/__main__.js",
   "dependencies": {
-    "aws-sdk": "^2.96.0",
+    "aws-sdk": "^2.814.0",
     "ejs": "^2.5.7",
     "lib": "^4.0.5",
     "mime": "^1.4.0"
